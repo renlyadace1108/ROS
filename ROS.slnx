@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ROS.AppRuntime/ROS.AppRuntime.csproj" Id="58a3d7e6-87ec-4559-8ec2-9c1e094ba87b" />
+    <Project Path="src/ROS.Data/ROS.Data.csproj" Id="57c5a9ad-5c02-4e18-ae9b-9b066951a012" />
+    <Project Path="src/ROS.Desktop/ROS.Desktop.csproj" Id="f94b2851-d0e5-4099-b4d8-6dbe00c207e3" />
+    <Project Path="src/ROS.Kernel/ROS.Kernel.csproj" Id="1cb954a7-5579-4bd5-9ddb-a3ac06da63a5" />
+    <Project Path="src/ROS.Package/ROS.Package.csproj" Id="0eb118b8-1f69-4455-ac51-37738a7dfe30" />
+  </Folder>
+</Solution>
